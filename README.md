@@ -1,5 +1,5 @@
 - 👋  Hi, I’m Sin
-- 👀  I’m interested in Machine Learning & Data Science & Full Stack Web Development  
+- 👀  I’m interested in Machine Learning & Data Science & Web Development  
 - :zap: I'm a final-year CS student (specialized in Artificial Intelligence)
 - :notebook_with_decorative_cover:	My research interest : Deep learning
 - 🌱  I’m currently learning Angular etc.
