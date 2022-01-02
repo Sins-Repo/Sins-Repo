@@ -2,7 +2,6 @@
 - 👀  I’m interested in Machine Learning & Data Science & Web Development  
 - :zap: I'm a final-year CS student (specialized in Artificial Intelligence)
 - :notebook_with_decorative_cover:	My research interest : Deep learning
-- 🌱  I’m currently learning Angular etc.
 - 💞️  I’m looking to collaborate on interesting projects
 - 📫  How to reach me? <sin.email1100@gmail.com>
 
