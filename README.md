@@ -1,7 +1,8 @@
 - 👋  Hi, I’m Sin
 - 👀  I’m interested in Machine Learning & Data Science & Web Development  
-- :zap: I'm a final-year CS student (specialized in Artificial Intelligence)
-- :notebook_with_decorative_cover:	My research interest : Deep learning
+- :zap: A Computer Science graduate
+- :briefcase: A Junior Data Scientist
+- :notebook_with_decorative_cover:	Research interest : Deep Learning
 - 💞️  I’m looking to collaborate on interesting projects
 - 📫  How to reach me? <sin.email1100@gmail.com>
 
