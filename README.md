@@ -1,6 +1,6 @@
 - 👀  Hi, I’m Sin 
 - :zap: A Computer Science graduate
-- :briefcase: A Junior Data Scientist
+- :briefcase: A Data Scientist
 - :notebook_with_decorative_cover:	Interest : Deep Learning, Machine Learning, Production Pipeline
 - 💞️  I’m looking to collaborate on interesting projects
 - 📫  How to reach me? <sin.email1100@gmail.com>
